@@ -157,11 +157,39 @@ p {
 
 }
 
-/*
+/* cta section */
+
 #cta{
-
-
-
+    /* font-family: "Montserrat-black"; */
+    font-weight: bold;
+    color: white;
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
 }
 
- */
+.cta-heading{
+    padding: 3.5rem;
+    line-height: 1.5;
+}
+
+/* footer section */
+
+footer{
+    padding: 7% 15%;
+    background-color: #fff;
+    color: #8f8f8f;
+    text-align: center;
+}
+
+
+.social-icon{
+    color:black;
+    padding: 1%;
+    padding-bottom: 2rem;
+}
+
+
+
+
+
